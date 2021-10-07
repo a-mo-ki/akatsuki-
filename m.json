@@ -1,1 +1,14 @@
-
+{
+    "id": 1,
+    "title": "",
+    "message": "",
+    "always_show": false,
+    "cancelable": true,
+    "images":[
+        {
+            "url": "",
+            "position": "",
+            "caption": ""
+        }
+    ]
+}
