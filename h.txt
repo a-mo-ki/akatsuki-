@@ -1,1 +1,1 @@
-https://anime-stalker.azurewebsites.net
+https://api.anime-stalker.ml
