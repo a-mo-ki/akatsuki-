@@ -1,9 +1,9 @@
 {
     "id": 1,
-    "title": "",
-    "message": "",
-    "always_show": false,
-    "cancelable": true,
+    "title": "Sorry",
+    "message": "Server is down",
+    "always_show": true,
+    "cancelable": false,
     "images":[
         {
             "url": "",
